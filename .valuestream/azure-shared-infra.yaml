@@ -14,7 +14,7 @@ params:
 modules:
   - name: github.com/qmonus/official-cloud-native-adapters-internal
     revision: main
-design_patterns:
+designPatterns:
   - pattern: qmonus.net/adapter/official/adapters/azure/container/kubernetes/apiBackend/sharedInfrastructure
     params:
       keyVaultAccessAllowedObjectIds:
